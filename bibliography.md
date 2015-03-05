@@ -40,3 +40,4 @@ Hélices
 -------
 
 * http://www.lavionnaire.fr/MecaHelices.php
+* http://www.dronelis.com/choix-des-moteurs-et-des-helices-pour-un-drone/
