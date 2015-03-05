@@ -1,0 +1,42 @@
+Bibliographie
+=============
+
+Exemples de quadcopters
+-----------------------
+
+* https://code.google.com/p/owenquad/ et https://ghowen.me/build-your-own-quadcopter-autopilot/
+* http://www.instructables.com/id/Autonomous-Cardboard-Rasberry-Pi-Controlled-Quad/
+* http://www.raspberrypi.org/forums/viewtopic.php?f=37&t=35746
+* Bicoptère à bascule : https://www.youtube.com/watch?v=2AepI7qITgs
+
+Gyromètre/accéléromètre
+-----------------------
+
+* Bus I2C : http://en.wikipedia.org/wiki/I%C2%B2C
+* Configuration : 
+ * http://mchobby.be/wiki/index.php?title=Rasp-Hack-GPIO_Configurer_I2C
+ * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c
+ * http://www.advamation.com/knowhow/raspberrypi/rpi-i2c-bug.html
+* Lecture : https://lilyhack.wordpress.com/2014/07/25/raspberrypi-reading-i2c-inputs-using-c/
+* Travail déjà réalisé : https://github.com/emersion/node-mpu6050-server
+* http://forum.arduino.cc/index.php?topic=255033.0
+* http://raspberrypi.znix.com/hipidocs/topic_i2cbus_2.htm
+* http://dsscircuits.com/sale/product/dssc0107
+
+Asservissement
+--------------
+
+* http://fr.wikipedia.org/wiki/R%C3%A9gulateur_PID et http://en.wikipedia.org/wiki/PID_controller
+
+Moteurs
+-------
+
+* http://fr.wikipedia.org/wiki/Moteur_sans_balais
+* http://stephane.lavirotte.com/perso/rov/esc_brushless_raspberry.html
+* http://raspberrypi.stackexchange.com/questions/18254/can-i-control-this-esc-brushless-motor-with-a-raspberry-pi-and-or-arduino
+* https://solenerotech1.wordpress.com/2013/09/09/tutorialhow-to-control-a-brushless-motor-with-raspberry-pi/
+
+Hélices
+-------
+
+* http://www.lavionnaire.fr/MecaHelices.php
