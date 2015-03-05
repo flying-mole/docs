@@ -1,5 +1,5 @@
 # docs
 
-Documents et recherches.
+Documents et liens de recherche.
 
 * [Bibliographie](bibliography.md)
