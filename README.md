@@ -1,2 +1,5 @@
 # docs
-Docs and links for research
+
+Documents et recherches.
+
+* [Bibliographie](bibliography.md)
