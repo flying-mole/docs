@@ -8,6 +8,7 @@ Exemples de quadcopters
 * http://www.instructables.com/id/Autonomous-Cardboard-Rasberry-Pi-Controlled-Quad/
 * http://www.raspberrypi.org/forums/viewtopic.php?f=37&t=35746
 * Bicoptère à bascule : https://www.youtube.com/watch?v=2AepI7qITgs
+* http://www.hobbytronics.co.uk/projects/quadcopter
 
 Gyromètre/accéléromètre
 -----------------------
