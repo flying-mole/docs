@@ -42,3 +42,17 @@ Hélices
 
 * http://www.lavionnaire.fr/MecaHelices.php
 * http://www.dronelis.com/choix-des-moteurs-et-des-helices-pour-un-drone/
+
+Batterie
+--------
+
+* Pour le Raspberry Pi :
+ * Moyenne (140g, 7h) : http://www.adafruit.com/products/1565
+ * Grosse (300g, 15h) : https://www.adafruit.com/product/1566
+* Pour les moteurs : TODO
+
+Wi-Fi
+-----
+
+* Antenne USB (requiret une bonne alimentation) : http://www.adafruit.com/products/1030
+* Raspberry Pi comme point d'accès Wi-Fi : https://learn.adafruit.com/downloads/pdf/setting-up-a-raspberry-pi-as-a-wifi-access-point.pdf
