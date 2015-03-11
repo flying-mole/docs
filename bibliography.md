@@ -54,5 +54,7 @@ Batterie
 Wi-Fi
 -----
 
-* Antenne USB (requiret une bonne alimentation) : http://www.adafruit.com/products/1030
-* Raspberry Pi comme point d'accès Wi-Fi : https://learn.adafruit.com/downloads/pdf/setting-up-a-raspberry-pi-as-a-wifi-access-point.pdf
+* Antenne USB (requiert une bonne alimentation) : http://www.adafruit.com/products/1030
+* Raspberry Pi comme point d'accès Wi-Fi : 
+ * https://learn.adafruit.com/downloads/pdf/setting-up-a-raspberry-pi-as-a-wifi-access-point.pdf
+ * http://elinux.org/RPI-Wireless-Hotspot
