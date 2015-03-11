@@ -58,3 +58,8 @@ Wi-Fi
 * Raspberry Pi comme point d'accès Wi-Fi : 
  * https://learn.adafruit.com/downloads/pdf/setting-up-a-raspberry-pi-as-a-wifi-access-point.pdf
  * http://elinux.org/RPI-Wireless-Hotspot
+
+Accessoires
+-----------
+
+* Camera 1080p pour Raspberry Pi : http://www.adafruit.com/product/1367
