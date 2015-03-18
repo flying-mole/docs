@@ -13,8 +13,8 @@ Cahier des charges matériel du bicoptère à bascule
  - [x] Raspberry Pi (carte de commande)
  - [ ] 1/2 capteurs
 
-Comparaison des autre projets existants
-=======================================
+Comparaison avec d'autres projets existants
+===========================================
 
 
 Quadcopter | Moteurs | Hélices | ESC | Batterie | Gyro
