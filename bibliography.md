@@ -1,6 +1,8 @@
 Bibliographie
 =============
 
+* Sujet X-ENS 2013 PSI : http://cortial.net/fichiers/XENS13modelisation-psi-off.pdf :-)
+
 Exemples de quadcopters
 -----------------------
 
@@ -28,6 +30,7 @@ Asservissement
 --------------
 
 * http://fr.wikipedia.org/wiki/R%C3%A9gulateur_PID et http://en.wikipedia.org/wiki/PID_controller
+* http://blog.oscarliang.net/quadcopter-pid-explained-tuning/
 
 Moteurs
 -------
@@ -42,6 +45,7 @@ Hélices
 
 * http://www.lavionnaire.fr/MecaHelices.php
 * http://www.dronelis.com/choix-des-moteurs-et-des-helices-pour-un-drone/
+* http://blog.oscarliang.net/how-to-choose-motor-and-propeller-for-quadcopter/
 
 Batterie
 --------
