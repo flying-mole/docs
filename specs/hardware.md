@@ -6,10 +6,10 @@ Cahier des charges matériel
 - [ ] Bâti (partie fixe)
 - [ ] Chassis (structure mobile)
 - [x] Électronique
- - [x] 2 moteurs brushless
- - [x] 2 hélices
+ - [x] 4 moteurs brushless
+ - [x] 4 hélices
  - [x] Un dongle Wi-Fi
- - [x] 2 [ESC](https://en.wikipedia.org/wiki/Electronic_speed_control)
+ - [x] 4 [ESC](https://en.wikipedia.org/wiki/Electronic_speed_control)
  - [x] Fils, connecteurs
  - [x] Raspberry Pi (carte de commande)
  - [x] 1 capteur
