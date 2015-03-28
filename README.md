@@ -1,6 +1,5 @@
-# docs
-
-Documents et liens de recherche.
+Documents et liens de recherche
+===============================
 
 * [Bibliographie](bibliography.md)
 * [Dépenses](spending.csv)
