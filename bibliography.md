@@ -32,11 +32,12 @@ Asservissement
 * http://fr.wikipedia.org/wiki/R%C3%A9gulateur_PID et http://en.wikipedia.org/wiki/PID_controller
 * http://blog.oscarliang.net/quadcopter-pid-explained-tuning/
 
-Moteurs
--------
+Moteurs, ESC
+------------
 
 * http://fr.wikipedia.org/wiki/Moteur_sans_balais
-* http://stephane.lavirotte.com/perso/rov/esc_brushless_raspberry.html
+* Contrôle des ESC via les GPIO du Rpi : http://stephane.lavirotte.com/perso/rov/esc_brushless_raspberry.html
+* Doc de ServoBlaster : https://github.com/richardghirst/PiBits/blob/master/ServoBlaster/README.txt
 * http://raspberrypi.stackexchange.com/questions/18254/can-i-control-this-esc-brushless-motor-with-a-raspberry-pi-and-or-arduino
 * https://solenerotech1.wordpress.com/2013/09/09/tutorialhow-to-control-a-brushless-motor-with-raspberry-pi/
 
