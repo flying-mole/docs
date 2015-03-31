@@ -69,3 +69,4 @@ Accessoires
 -----------
 
 * Camera 1080p pour Raspberry Pi : http://www.adafruit.com/product/1367
+* http://www.raspberrypi-spy.co.uk/2013/05/capturing-hd-video-with-the-pi-camera-module/
