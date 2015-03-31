@@ -12,6 +12,11 @@ Exemples de quadcopters
 * Bicoptère à bascule : https://www.youtube.com/watch?v=2AepI7qITgs
 * http://www.hobbytronics.co.uk/projects/quadcopter
 
+Raspberry Pi
+------------
+
+* Rspbian temps-réel : http://docs.emlid.com/Navio-APM/configuring-raspberry-pi/
+
 Gyromètre/accéléromètre
 -----------------------
 
