@@ -31,6 +31,8 @@ Gyromètre/accéléromètre
 * http://forum.arduino.cc/index.php?topic=255033.0
 * http://raspberrypi.znix.com/hipidocs/topic_i2cbus_2.htm
 * http://dsscircuits.com/sale/product/dssc0107
+* Librairie Arduino pour MPU6050 : http://www.i2cdevlib.com/docs/html/class_m_p_u6050.html
+* Explications sur lmes grandeurs physiques mesurées : http://www.instructables.com/id/Accelerometer-Gyro-Tutorial/step1/The-Accelerometer/
 
 Asservissement
 --------------
