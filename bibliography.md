@@ -1,8 +1,6 @@
 Bibliographie
 =============
 
-* Sujet X-ENS 2013 PSI : http://cortial.net/fichiers/XENS13modelisation-psi-off.pdf :-)
-
 Exemples de quadcopters
 -----------------------
 
