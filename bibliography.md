@@ -24,7 +24,9 @@ Gyromètre/accéléromètre
  * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c
  * http://www.advamation.com/knowhow/raspberrypi/rpi-i2c-bug.html
 * Lecture : https://lilyhack.wordpress.com/2014/07/25/raspberrypi-reading-i2c-inputs-using-c/
-* Travail déjà réalisé : https://github.com/emersion/node-mpu6050-server
+* Travail déjà réalisé :
+ * Librairie : https://github.com/emersion/node-i2c-mpu6050
+ * Serveur de test : https://github.com/emersion/node-mpu6050-server
 * Code analogue en C++ : https://github.com/richardghirst/PiBits/tree/master/MPU6050-Pi-Demo
 * http://forum.arduino.cc/index.php?topic=255033.0
 * http://raspberrypi.znix.com/hipidocs/topic_i2cbus_2.htm
