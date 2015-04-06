@@ -39,6 +39,7 @@ Asservissement
 
 * http://fr.wikipedia.org/wiki/R%C3%A9gulateur_PID et http://en.wikipedia.org/wiki/PID_controller
 * http://blog.oscarliang.net/quadcopter-pid-explained-tuning/
+* Librairie Node.js : https://www.npmjs.com/package/node-pid-controller
 
 Moteurs, ESC
 ------------
