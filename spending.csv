@@ -1,8 +1,7 @@
 Date,Item,Prix unitaire,Prix TTC
 ,Raspberry Pi,$25,$25
-,MPU6050,,
-,Dongle Wi-Fi,$9.29,$9.29
 ,Alim,,
+2015-03-04,Belkin F7D2102 N300 300Mbp Micro Wireless N USB Adapter RTL8192CU,$9.29,$9.29
 2015-03-28,4 * hélice Gemfan 10*4.5 x2,4*4.80,19.20
 2015-03-28,LIPO 3S 3200 Black Lithium,52.00,52.00
 2015-03-28,4 * Moteur Protronik 2215/1150,29.00,116.00
@@ -13,3 +12,4 @@ Date,Item,Prix unitaire,Prix TTC
 2015-03-28,4 * baguettes bois,2.00,8.00
 2015-03-28,1 Male to 4 Female Deans T Plug Connector Power Cable f KK MultiRotor QuadCopter,$5.99,$5.99
 2015-04-09,Jumper wire Dupont cable Ribbon,2.29 GBP,7.58 GBP
+2015-04-09,MPU6050,3.99,3.99
