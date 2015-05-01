@@ -75,8 +75,11 @@ Wi-Fi
  * https://learn.adafruit.com/downloads/pdf/setting-up-a-raspberry-pi-as-a-wifi-access-point.pdf
  * http://elinux.org/RPI-Wireless-Hotspot
 
-Accessoires
+Camera
 -----------
 
 * Camera 1080p pour Raspberry Pi : http://www.adafruit.com/product/1367
 * http://www.raspberrypi-spy.co.uk/2013/05/capturing-hd-video-with-the-pi-camera-module/
+* gstreamer avec encodage matériel :
+  * http://pi.gbaman.info/?p=150
+  * http://www.onepitwopi.com/raspberry-pi/gstreamer-1-2-on-the-raspberry-pi/
