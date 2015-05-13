@@ -83,3 +83,4 @@ Camera
 * gstreamer avec encodage matériel :
   * http://pi.gbaman.info/?p=150
   * http://www.onepitwopi.com/raspberry-pi/gstreamer-1-2-on-the-raspberry-pi/
+* `usermod -a -G video [username]`
