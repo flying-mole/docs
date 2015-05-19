@@ -65,7 +65,8 @@ Batterie
 * Pour le Raspberry Pi :
  * Moyenne (140g, 7h) : http://www.adafruit.com/products/1565
  * Grosse (300g, 15h) : https://www.adafruit.com/product/1566
-* Pour les moteurs : TODO
+* Pour les moteurs : nope
+* Monitor battery usage : http://raspi.tv/2013/controlled-shutdown-duration-test-of-pi-model-a-with-2-cell-lipo
 
 Wi-Fi
 -----
