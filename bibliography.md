@@ -51,6 +51,7 @@ Moteurs, ESC
 * http://raspberrypi.stackexchange.com/questions/18254/can-i-control-this-esc-brushless-motor-with-a-raspberry-pi-and-or-arduino
 * https://solenerotech1.wordpress.com/2013/09/09/tutorialhow-to-control-a-brushless-motor-with-raspberry-pi/
 * Travail déjà réalisé : https://github.com/emersion/node-servoblaster
+* Notice ESC : http://www.absolu-modelisme.com/media/downloadable/files/notices//n/o/notice_pro-tronik_controleurs_esc.pdf
 
 Hélices
 -------
