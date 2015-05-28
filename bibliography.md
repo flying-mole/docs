@@ -13,7 +13,7 @@ Exemples de quadcopters
 Raspberry Pi
 ------------
 
-* Rspbian temps-réel : http://docs.emlid.com/Navio-APM/configuring-raspberry-pi/
+* Raspbian temps-réel : http://docs.emlid.com/Navio-APM/configuring-raspberry-pi/
 
 Gyromètre/accéléromètre
 -----------------------
@@ -41,6 +41,12 @@ Asservissement
 * http://fr.wikipedia.org/wiki/R%C3%A9gulateur_PID et http://en.wikipedia.org/wiki/PID_controller
 * http://blog.oscarliang.net/quadcopter-pid-explained-tuning/
 * Librairie Node.js : https://www.npmjs.com/package/node-pid-controller
+
+* http://www.linushelgesson.se/tag/kalman-filter/
+* http://challenge.toradex.com/projects/10078-autopilot-quadcopter
+* http://robotics.stackexchange.com/questions/2244/how-to-know-the-desired-orientation-of-a-quadcopter
+* http://technicaladventure.blogspot.fr/2012/09/quadcopter-stabilization-control-system.html
+* http://blog.pistuffing.co.uk/tag/pid/page/8/
 
 Moteurs, ESC
 ------------
