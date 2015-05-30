@@ -40,6 +40,7 @@ Asservissement
 
 * http://fr.wikipedia.org/wiki/R%C3%A9gulateur_PID et http://en.wikipedia.org/wiki/PID_controller
 * http://blog.oscarliang.net/quadcopter-pid-explained-tuning/
+* http://robot-kingdom.com/pid-controller-tutorial-for-robots/
 * Librairie Node.js : https://www.npmjs.com/package/node-pid-controller
 
 * http://www.linushelgesson.se/tag/kalman-filter/
