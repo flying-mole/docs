@@ -44,7 +44,7 @@ Asservissement
 
 * http://www.linushelgesson.se/tag/kalman-filter/
 * http://challenge.toradex.com/projects/10078-autopilot-quadcopter
-* http://robotics.stackexchange.com/questions/2244/how-to-know-the-desired-orientation-of-a-quadcopter
+* ~~http://robotics.stackexchange.com/questions/2244/how-to-know-the-desired-orientation-of-a-quadcopter
 * http://technicaladventure.blogspot.fr/2012/09/quadcopter-stabilization-control-system.html
 * http://blog.pistuffing.co.uk/tag/pid/page/8/
 
