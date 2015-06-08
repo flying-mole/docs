@@ -3,7 +3,9 @@ Documents et liens de recherche
 
 * [Bibliographie](bibliography.md)
 * [Dépenses](spending.csv)
-* [Dossier de présentation](presentation)
+* [Présentations](presentation)
+  * [Introduction](presentation/intro.pdf)
+  * [Première présentation de groupe](presentation/group)
 * [Cahier des charges](specs)
   * [Exigences](specs/requirements.md)
   * [Matériel](specs/hardware.md)
