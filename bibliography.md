@@ -15,8 +15,10 @@ Raspberry Pi
 
 * Raspbian temps-réel : http://docs.emlid.com/Navio-APM/configuring-raspberry-pi/
 
-Gyromètre/accéléromètre
------------------------
+IMU
+---
+
+IMU = Inertial Measurement Unit (ici, le MPU6050 qui fait gyromètre et accéléromètre)
 
 * Bus I2C : http://en.wikipedia.org/wiki/I%C2%B2C
 * Configuration : 
@@ -34,6 +36,13 @@ Gyromètre/accéléromètre
 * ~~http://dsscircuits.com/sale/product/dssc0107~~
 * Librairie Arduino pour MPU6050 : http://www.i2cdevlib.com/docs/html/class_m_p_u6050.html
 * Explications sur lmes grandeurs physiques mesurées : http://www.instructables.com/id/Accelerometer-Gyro-Tutorial/step1/The-Accelerometer/
+
+Filtres pour IMU
+----------------
+
+* Quaternions en maths : http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/index.htm
+* DMP aec une Arduino : http://www.geekmomprojects.com/mpu-6050-dmp-data-from-i2cdevlib/
+* Explications générales sur le MPU6050 : http://www.cs.unca.edu/~bruce/Fall13/360/IMU_Wk8.pptx
 
 Asservissement
 --------------
