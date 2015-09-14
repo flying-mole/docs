@@ -3,6 +3,7 @@
 Il nous faut une Debian jessie (stable), mais la version par défaut de Raspbian est wheezy (oldstable). Une fois Raspbian installé, faire la mise à jour :
 
 ```bash
+# Remplacer wheezy par jessie dans les sources de mises à jour
 sudo sed -i /deb/s/wheezy/jessie/g /etc/apt/sources.list
 sudo sed -i /deb/s/wheezy/jessie/g /etc/apt/sources.list.d/*.list
 
