@@ -3,10 +3,11 @@
 Il nous faut une Debian jessie (stable), mais la version par défaut de Raspbian est wheezy (oldstable). Une fois Raspbian installé, faire la mise à jour :
 
 ```bash
-# Remplacer wheezy par jessie dans les sources de mises à jour
+# Replace wheezy by jessie in update sources
 sudo sed -i /deb/s/wheezy/jessie/g /etc/apt/sources.list
 sudo sed -i /deb/s/wheezy/jessie/g /etc/apt/sources.list.d/*.list
 
+# Do the upgrade
 sudo apt-get update
 sudo apt-get dist-upgrade
 ```
@@ -45,8 +46,15 @@ Voir https://github.com/richardghirst/PiBits/tree/master/ServoBlaster
 
 Voir https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c
 
+```
+# Allow i2c to be used without root privileges
+sudo usermod -G i2c pi
+# Then logout and login again.
+```
+
 # Camera
 
 ```bash
-usermod -a -G video pi
+sudo usermod -a -G video pi
+# Then logout and login again.
 ```
