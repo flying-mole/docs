@@ -39,7 +39,7 @@ IMU = Inertial Measurement Unit (ici, le MPU6050 qui fait gyromètre et accélé
 
 Filtres pour IMU
 ----------------
-
+* Quaternion to Euler : https://en.wikipedia.org/wiki/Conversion_between_quaternions_and_Euler_angles
 * Quaternions en maths : http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/index.htm
 * DMP aec une Arduino : http://www.geekmomprojects.com/mpu-6050-dmp-data-from-i2cdevlib/
 * Explications générales sur le MPU6050 : http://www.cs.unca.edu/~bruce/Fall13/360/IMU_Wk8.pptx
