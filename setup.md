@@ -66,6 +66,7 @@ Voir https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/confi
 # Enable I2C support
 sudo apt-get install i2c-tools
 sudo raspi-config # Advanced Options > Enable I2C
+sudo reboot
 
 # Check that I2C is enabled on boot
 sudo nano /etc/modules
