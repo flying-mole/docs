@@ -1,18 +1,17 @@
 # Raspberry Pi
 
-Il nous faut une Debian jessie (stable), mais la version par défaut de Raspbian est wheezy (oldstable). Une fois Raspbian installé, faire la mise à jour :
+Télécharger Raspbian Jessie depuis: https://www.raspberrypi.org/downloads/raspbian/
 
+> NB: si vous avez Wheezy, faire la mise à jour :
 ```bash
 # Replace wheezy by jessie in update sources
 sudo sed -i /deb/s/wheezy/jessie/g /etc/apt/sources.list
 sudo sed -i /deb/s/wheezy/jessie/g /etc/apt/sources.list.d/*.list
-
 # Do the upgrade
 sudo apt-get update
 sudo apt-get dist-upgrade
 ```
-
-Source: http://raspberrypi.stackexchange.com/a/27860
+> Source: http://raspberrypi.stackexchange.com/a/27860
 
 # Wifi
 
