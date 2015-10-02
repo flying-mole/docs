@@ -13,7 +13,12 @@ sudo apt-get dist-upgrade
 ```
 > Source: http://raspberrypi.stackexchange.com/a/27860
 
-Pour avoir uniquement le strict nécessaire : utiliser https://github.com/debian-pi/raspbian-ua-netinst
+> Pour avoir uniquement le strict nécessaire : utiliser https://github.com/debian-pi/raspbian-ua-netinst
+>
+> Il faudra installer quand même quelques trucs :
+```bash
+sudo apt-get install python make git g++
+```
 
 # Wifi
 
@@ -158,4 +163,12 @@ sudo reboot
 # Allow camera to be used without root privileges
 sudo usermod -a -G video pi
 # Then logout and login again
+```
+
+# HUD
+
+```bash
+git clone https://github.com/flying-mole/hud.git
+cd hud
+npm install
 ```
