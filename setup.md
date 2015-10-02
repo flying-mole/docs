@@ -84,6 +84,10 @@ sudo i2cdetect -y 1
 # Camera
 
 ```bash
+sudo raspi-config # Enable camera
+sudo reboot
+
+# Allow camera to be used without root privileges
 sudo usermod -a -G video pi
 # Then logout and login again
 ```
