@@ -17,6 +17,10 @@ Pour avoir uniquement le strict nécessaire : utiliser https://github.com/debian
 
 # Wifi
 
+Source : https://learn.adafruit.com/downloads/pdf/setting-up-a-raspberry-pi-as-a-wifi-access-point.pdf
+
+## hostapd
+
 ```bash
 sudo apt-get install hostapd
 ```
@@ -31,7 +35,71 @@ sudo mv hostapd /usr/sbin
 sudo chmod 755 /usr/sbin/hostapd
 ```
 
-Source : https://learn.adafruit.com/downloads/pdf/setting-up-a-raspberry-pi-as-a-wifi-access-point.pdf
+Modifier `/etc/hostapd/hostapd.conf`:
+```
+interface=wlan0
+driver=rtl871xdrv # Or nl80211
+ssid=flying-mole
+hw_mode=g
+channel=6
+macaddr_acl=0
+auth_algs=1
+ignore_broadcast_ssid=0
+wpa=2
+wpa_passphrase=raspberry
+wpa_key_mgmt=WPA-PSK
+wpa_pairwise=TKIP
+rsn_pairwise=CCMP
+```
+
+(Pas de ligne vide au début/à la fin du fichier !)
+
+Modifier `/etc/default/hostapd`:
+```
+DEAMON_CONF="/etc/hostapd/hostapd.conf"
+```
+
+## isc-dhcp-server
+
+```bash
+sudo apt-get install isc-dhcp-server
+```
+
+Modifier `/etc/dhcp/dhcpd.conf`:
+```
+#option domain-name "example.org";
+#option domain-name-servers ns1.example.org ns2.example.org;
+authoritative;
+
+subnet 192.168.3.0 netmask 255.255.255.0 {
+	range 192.168.3.10 192.168.3.50;
+	option broadcast-address 192.168.3.255;
+	option routers 192.168.3.1;
+	default-lease-time 600;
+	max-lease-time 7200;
+}
+```
+
+Modifier `/etc/default/isc-dhcp-server`:
+```
+INTERFACES="wlan0"
+```
+
+## IP statique
+
+Modifier `/etc/network/interfaces`:
+```
+allow-hotplug wlan0
+
+iface wlan0 inet static
+	address 192.168.3.1
+	netmask 255.255.255.0
+```
+
+Modifier `/etc/sysctl.conf`:
+```
+net.ipv4.ip_forward=1
+```
 
 # Node
 
