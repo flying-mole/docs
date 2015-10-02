@@ -13,6 +13,8 @@ sudo apt-get dist-upgrade
 ```
 > Source: http://raspberrypi.stackexchange.com/a/27860
 
+Pour avoir uniquement le strict nécessaire : utiliser https://github.com/debian-pi/raspbian-ua-netinst
+
 # Wifi
 
 ```bash
