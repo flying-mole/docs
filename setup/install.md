@@ -172,3 +172,20 @@ git clone https://github.com/flying-mole/hud.git
 cd hud
 npm install
 ```
+
+# Matériel
+
+Voir [`hardware/`](../hardware/) pour des documents sur le matériel utilisé.
+
+* Brancher la clef Wifi sur un des ports USB
+* Brancher le capteur MPU6050 et les ESC :
+
+---
+GPIO | Composant | Pin du composant
+---
+3V3 | MPU6050 | VCC
+2 (SDA) | MPU6050 | SDA
+3 (SCL) | MPU6050 | SCL
+GND | MPU6050 | GND
+4 | ESC #0 | Entrée (jaune)
+4 | ESC #0 | Entrée (jaune)
