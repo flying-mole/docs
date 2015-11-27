@@ -180,12 +180,18 @@ Voir [`hardware/`](../hardware/) pour des documents sur le matériel utilisé.
 * Brancher la clef Wifi sur un des ports USB
 * Brancher le capteur MPU6050 et les ESC :
 
----
 GPIO | Composant | Pin du composant
----
+--- | --- | ---
 3V3 | MPU6050 | VCC
 2 (SDA) | MPU6050 | SDA
 3 (SCL) | MPU6050 | SCL
 GND | MPU6050 | GND
-4 | ESC #0 | Entrée (jaune)
-4 | ESC #0 | Entrée (jaune)
+4 | ESC #0 (axe X positif) | Entrée (jaune)
+17 | ESC #1 (axe Y positif) | Entrée (jaune)
+18 | ESC #2 (axe X négatif) | Entrée (jaune)
+21/27 | ESC #3 (axe Y négatif) | Entrée (jaune)
+GND | ESC (tous) | GND (noir)
+
+* Brancher chaque ESC à une hélice (si elles tournent dans le mauvais sens, inverser un des trois connecteurs)
+* Brancher la batterie aux 4 ESC
+* Brancher l'alimentation de Raspberry Pi (5V continu via microUSB)
