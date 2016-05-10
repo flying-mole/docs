@@ -58,6 +58,8 @@ Asservissement
 * http://technicaladventure.blogspot.fr/2012/09/quadcopter-stabilization-control-system.html
 * http://blog.pistuffing.co.uk/tag/pid/page/8/
 
+* Exemple de programmation d'un PID : http://blog.solutions-cubed.com/pid-motor-control-with-an-arduino/
+
 Moteurs, ESC
 ------------
 
