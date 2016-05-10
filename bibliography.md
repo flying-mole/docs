@@ -25,7 +25,7 @@ IMU = Inertial Measurement Unit (ici, le MPU6050 qui fait gyromètre et accélé
  * http://mchobby.be/wiki/index.php?title=Rasp-Hack-GPIO_Configurer_I2C
  * https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c
  * http://www.advamation.com/knowhow/raspberrypi/rpi-i2c-bug.html
-* Datasheet du MPU6050 : http://www.invensense.com/mems/gyro/documents/RM-MPU-6000A-00v4.2.pdf
+* Datasheet du MPU6050 : https://www.cdiweb.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf
 * Lecture : https://lilyhack.wordpress.com/2014/07/25/raspberrypi-reading-i2c-inputs-using-c/
 * Travail déjà réalisé :
  * Librairie : https://github.com/emersion/node-i2c-mpu6050
