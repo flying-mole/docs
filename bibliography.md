@@ -72,7 +72,6 @@ Moteurs, ESC
 Hélices
 -------
 
-* http://www.lavionnaire.fr/MecaHelices.php
 * http://www.dronelis.com/choix-des-moteurs-et-des-helices-pour-un-drone/
 * http://blog.oscarliang.net/how-to-choose-motor-and-propeller-for-quadcopter/
 
@@ -82,6 +81,7 @@ Batterie
 * Pour le Raspberry Pi :
  * Moyenne (140g, 7h) : http://www.adafruit.com/products/1565
  * Grosse (300g, 15h) : https://www.adafruit.com/product/1566
+ * Batterie lipo black lithium 35C 3300mah 11,1V : http://www.absolu-modelisme.com/black-lithium-11-1v-3300mah-35.html
 * Pour les moteurs : nope
 * Monitor battery usage : http://raspi.tv/2013/controlled-shutdown-duration-test-of-pi-model-a-with-2-cell-lipo
 
